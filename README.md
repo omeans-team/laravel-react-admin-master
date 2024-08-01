@@ -8,9 +8,8 @@
 </p>
 
 ## About App
-<img src="https://raw.githubusercontent.com/omeans-team/freelance-project/master/Screenshot-Laravel-1.png" width="400" alt="Laravel App">
-
-<img src="https://raw.githubusercontent.com/omeans-team/freelance-project/master/Screenshot-Laravel-2.png" width="400" alt="Laravel App">
+<img src="https://github.com/omeans-team/laravel-react-admin-master/blob/main/Screenshot-Laravel-1.png" width="50%" alt="Laravel App">
+<img src="https://github.com/omeans-team/laravel-react-admin-master/blob/main/Screenshot-Laravel-2.png" width="50%" alt="Laravel App">
 
 ## About Laravel
 Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
