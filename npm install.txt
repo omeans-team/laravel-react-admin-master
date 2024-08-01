@@ -1,0 +1,35 @@
+npm install @emotion/react@11.10.4
+npm install @emotion/styled@11.10.4
+npm install @fullcalendar/core@5.11.3
+npm install @fullcalendar/daygrid@5.11.3
+npm install @fullcalendar/interaction@5.11.3
+npm install @fullcalendar/list@5.11.3
+npm install @fullcalendar/react@5.11.2
+npm install @fullcalendar/timegrid@5.11.3
+npm install @mui/icons-material@5.10.3
+npm install @mui/material@5.10.5
+npm install @mui/x-data-grid@5.17.2
+npm install @nivo/bar@0.80.0
+npm install @nivo/core@0.79.0
+npm install @nivo/geo@0.80.0
+npm install @nivo/line@0.79.1
+npm install @nivo/pie@0.80.0
+npm install @reduxjs/toolkit@1.8.5
+npm install @testing-library/jest-dom@5.16.5
+npm install @testing-library/react@13.3.0
+npm install @testing-library/user-event@13.5.0
+npm install chart.js@3.9.1
+npm install formik@2.2.9
+npm install react@18.2.0
+npm install react-chartjs-2@4.3.1
+npm install react-dom@18.2.0
+npm install react-pro-sidebar@0.7.1
+npm install react-redux@8.0.2
+npm install react-router-dom@6.3.0
+npm install react-scripts@5.0.1
+npm install web-vitals@2.1.4
+npm install yup@0.32.11
+
+
+atau langsung:
+npm install @emotion/react@11.10.4 @emotion/styled@11.10.4 @fullcalendar/core@5.11.3 @fullcalendar/daygrid@5.11.3 @fullcalendar/interaction@5.11.3 @fullcalendar/list@5.11.3 @fullcalendar/react@5.11.2 @fullcalendar/timegrid@5.11.3 @mui/icons-material@5.10.3 @mui/material@5.10.5 @mui/x-data-grid@5.17.2 @nivo/bar@0.80.0 @nivo/core@0.79.0 @nivo/geo@0.80.0 @nivo/line@0.79.1 @nivo/pie@0.80.0 @reduxjs/toolkit@1.8.5 @testing-library/jest-dom@5.16.5 @testing-library/react@13.3.0 @testing-library/user-event@13.5.0 chart.js@3.9.1 formik@2.2.9 react@18.2.0 react-chartjs-2@4.3.1 react-dom@18.2.0 react-pro-sidebar@0.7.1 react-redux@8.0.2 react-router-dom@6.3.0 react-scripts@5.0.1 web-vitals@2.1.4 yup@0.32.11
